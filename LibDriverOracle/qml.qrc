@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>lib/lib/ojdbc5.jar</file>
+        <file>lib/DriverDB.jar</file>
+    </qresource>
+</RCC>
